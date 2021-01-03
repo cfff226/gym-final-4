@@ -77,8 +77,10 @@ body {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 5px;
-    font-size: 20px;
+    font-size: 1.25rem;
     background-color:  #fc5a03; 
+    color:  #222021!important;
+    padding: 5px 5px 5px 5px;
 }
 
 
