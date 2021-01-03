@@ -126,4 +126,8 @@ l, ul {
     font-size: 20px;
     float: center;
     text-align: center;
+    display: inline;
+    word-spacing: 0;
+    flex-wrap: wrap;
+    padding: 0;
 }
