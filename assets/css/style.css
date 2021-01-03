@@ -8,3 +8,12 @@
     padding: 0;
     border: 0;
 }
+
+/** body **/
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: none;
+    width: 100vw;
+    border: 0;
+}
