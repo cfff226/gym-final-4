@@ -114,3 +114,9 @@ l, ul {
     width: 100vw;
     margin-bottom: 15px;
 }
+
+#section-2 h2 {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    text-align: center;
+}
