@@ -95,6 +95,9 @@ body {
     position: fixed;
     font-size: 25px;
     color:  #fc5a03;
+    background-color:  #222021!important;
+    display: inline;
+    list-style: none;
 }
 
 
