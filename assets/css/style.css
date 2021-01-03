@@ -69,5 +69,14 @@ body {
     margin-bottom: 75px;
 }
 
+/** call out **/
+
+#section-1 .call-out h2 {
+    z-index: 1000;
+    margin-top: 100px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
 
 
