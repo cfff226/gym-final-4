@@ -103,5 +103,9 @@ body {
     padding: 5px 5px 5px 5px;
 }
 
+l, ol, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
 
