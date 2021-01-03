@@ -92,7 +92,7 @@ body {
 /** locations **/
 
 .overlay {
-    position: fixed;
+    position: absolute;
     font-size: 25px;
     color:  #fc5a03;
     background-color:  #222021!important;
@@ -103,9 +103,14 @@ body {
     padding: 5px 5px 5px 5px;
 }
 
-l, ol, ul {
+l, ul {
     margin-top: 0;
     margin-bottom: 0;
 }
 
+/** section 2 **/
 
+.row {
+    width: 100vw;
+    margin-bottom: 15px;
+}
