@@ -89,4 +89,12 @@ body {
     padding: 5px 5px 5px 5px;
 }
 
+/** locations **/
+
+.overlay {
+    position: fixed;
+    font-size: 25px;
+    color:  #fc5a03;
+}
+
 
