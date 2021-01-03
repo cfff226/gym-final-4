@@ -134,3 +134,7 @@ l, ul {
     margin-right: 20px;
 }
 
+#section-2 .card-title {
+    margin-bottom: 30px;
+    text-align: center;
+}
