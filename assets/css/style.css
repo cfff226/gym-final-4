@@ -142,3 +142,13 @@ l, ul {
 #section-2 .card-text {
     text-align: center;
 }
+
+
+/** section 2 images **/
+
+.card-deck {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 75px;
+    margin-top: inherit;
+}
