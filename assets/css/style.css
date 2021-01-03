@@ -32,5 +32,13 @@ body {
     position: fixed;
     z-index: 1000;
     width: 100vw; 
-    padding: 0;
+    padding: 0 0 0 0;
+}
+
+.navbar-toggler{
+    background-color: #fc5a03;
+}
+
+.bg-dark {
+    background-color: #222021!important;
 }
