@@ -138,3 +138,7 @@ l, ul {
     margin-bottom: 30px;
     text-align: center;
 }
+
+#section-2 .card-text {
+    text-align: center;
+}
