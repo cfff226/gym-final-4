@@ -72,7 +72,7 @@ body {
 
 #section-1 .call-out h2 {
     z-index: 1000;
-    margin-top: 100px;
+    margin-top: 105px;
     margin-left: 15px;
     margin-right: 0;
     margin-bottom: 5px;
@@ -180,7 +180,7 @@ l, ul {
 
 @media only screen and (max-width: 663px) {
  .table-responsive-sm .table   {
-    font-size: 6px;
+    font-size: 5px;
 }
 }
 
@@ -234,6 +234,10 @@ l, ul {
 
 #section-5 .form-row {
     text-align: center;
+}
+
+#section-5 label {
+    display: block;
 }
 
 
