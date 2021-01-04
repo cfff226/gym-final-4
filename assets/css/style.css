@@ -180,7 +180,7 @@ l, ul {
 
 @media only screen and (max-width: 663px) {
  .table-responsive-sm .table   {
-    font-size: 9px;
+    font-size: 6px;
 }
 }
 
