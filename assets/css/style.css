@@ -155,6 +155,10 @@ l, ul {
 
 /** section 3 **/
 
+#section-3 {
+    padding-top: 50px;
+}
+
 #section-3 h2 {
     margin-top: 50px;
     margin-bottom: 25px;
@@ -203,6 +207,8 @@ l, ul {
 
 #section-4 .card {
     margin-bottom: 75px;
+    margin-left: 30px;
+    margin-right: 10px;
 }
 
 #section-4 li {
