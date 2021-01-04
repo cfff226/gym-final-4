@@ -35,6 +35,7 @@ body {
     padding: 0 0 0 0;
 }
 
+
 .navbar-toggler{
     background-color: #fc5a03;
 }
@@ -52,7 +53,7 @@ body {
 }
 
 .navbar-light .navbar-nav .nav-link {
-    font-size: 1.75rem;
+    font-size: 1.70rem;
     list-style-type: none;
     color:#fc5a03;
 }
@@ -60,7 +61,7 @@ body {
 
 @media only screen and (max-width: 1024px) {
 .navbar-light .navbar-nav .nav-link {
-    font-size: 1rem;
+    font-size: 1.15rem;
     padding-right: 2px;
 }
 }
@@ -82,7 +83,7 @@ body {
     z-index: 1000;
     margin-top: 105px;
     margin-left: 15px;
-    margin-right: 100px;
+    margin-right: 0;
     margin-bottom: 5px;
     font-size: 1.25rem;
     background-color:  #fc5a03; 
