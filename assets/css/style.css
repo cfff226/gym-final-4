@@ -114,10 +114,6 @@ l, ul {
     margin-bottom: 15px;
 }
 
-#section-2 {
-    height: 100vh;
-}
-
 #section-2 h2 {
     margin-top: 50px;
     margin-bottom: 25px;
@@ -158,10 +154,6 @@ l, ul {
 
 /** section 3 **/
 
-#section-3 {
-    height: 100vh;
-}
-
 #section-3 h2 {
     margin-top: 50px;
     margin-bottom: 25px;
@@ -198,9 +190,6 @@ l, ul {
 
 /** section 4 **/
 
-#section-4 {
-    height: 100vh;
-}
 
 #section-4 h2 {
     text-align: center;
@@ -226,10 +215,6 @@ l, ul {
 }
 
 /** section 5 **/
-
-#section-5 {
-    height: 100vh;
-}
 
 #section-5 h2 {
     margin-bottom: 25px;
