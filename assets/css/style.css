@@ -109,6 +109,10 @@ l, ul {
 
 /** section 2 **/
 
+#section-2 #page-2 {
+    padding-top: 120px;
+}
+
 .row {
     width: 100vw;
     margin-bottom: 15px;
@@ -154,6 +158,10 @@ l, ul {
 
 /** section 3 **/
 
+#section-3 #page-3 {
+    padding-top: 120px;
+}
+
 #section-3 h2 {
     margin-top: 50px;
     margin-bottom: 25px;
@@ -190,6 +198,9 @@ l, ul {
 
 /** section 4 **/
 
+#section-4 #page-4 {
+    padding-top: 120px;
+}
 
 #section-4 h2 {
     text-align: center;
