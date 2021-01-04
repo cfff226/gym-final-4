@@ -127,7 +127,6 @@ l, ul {
 #section-2 ul li {
     list-style-type: none;
     font-size: 20px;
-    float: center;
     text-align: center;
     display: inline;
     word-spacing: 0;
