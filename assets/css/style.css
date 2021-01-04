@@ -160,3 +160,12 @@ l, ul {
     margin-bottom: 25px;
     text-align: center;
 }
+
+/** gym timetable **/
+
+.table-responsive-sm .table {
+    word-spacing: 1.5px;
+    width: 100vw;
+    font-size: 15px;
+    margin-bottom: 75px;
+}
