@@ -208,6 +208,8 @@ l, ul {
 #section-4 li {
     text-align: center;
     list-style-type: none;
+    margin: 40px;
+    font-size: 20px;
 }
 
 /** section 5 **/
@@ -219,6 +221,6 @@ l, ul {
 
 #section-5 .form-row {
     text-align: center;
-
 }
+
 
