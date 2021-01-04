@@ -171,6 +171,12 @@ l, ul {
     overflow-y: hidden;
 }
 
+@media only screen and (max-width: 663px) {
+ .table-responsive-sm .table   {
+    font-size: 9px;
+}
+}
+
 #section-3 .table thead {
     text-align: center;
 }
