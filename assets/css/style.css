@@ -210,3 +210,15 @@ l, ul {
     list-style-type: none;
 }
 
+/** section 5 **/
+
+#section-5 h2 {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+#section-5 .form-row {
+    text-align: center;
+
+}
+
