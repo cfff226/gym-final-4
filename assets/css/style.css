@@ -155,7 +155,7 @@ l, ul {
 /** section 3 **/
 
 #section-3 {
-    padding-top: 50px;
+    height: 100vh;
 }
 
 #section-3 h2 {
@@ -193,6 +193,10 @@ l, ul {
 }
 
 /** section 4 **/
+
+#section-4 {
+    height: 100vh;
+}
 
 #section-4 h2 {
     text-align: center;
