@@ -169,3 +169,15 @@ l, ul {
     font-size: 15px;
     margin-bottom: 75px;
 }
+
+#section-3 .table thead {
+    text-align: center;
+}
+
+#section-3 .table tr {
+    text-align: center;
+}
+
+#section-3 .table td {
+    text-align: center;
+}
