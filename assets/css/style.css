@@ -35,9 +35,6 @@ body {
     padding: 0 0 0 0;
 }
 
-
-
-
 .navbar-toggler{
     background-color: #fc5a03;
 }
@@ -68,7 +65,6 @@ body {
 }
 }
 
-
 /** hero container **/
 
 .hero-container-fluid {
@@ -86,7 +82,7 @@ body {
     z-index: 1000;
     margin-top: 105px;
     margin-left: 15px;
-    margin-right: 0;
+    margin-right: 100px;
     margin-bottom: 5px;
     font-size: 1.25rem;
     background-color:  #fc5a03; 
