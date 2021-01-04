@@ -152,3 +152,11 @@ l, ul {
     margin-bottom: 75px;
     margin-top: inherit;
 }
+
+/** section 3 **/
+
+#section-3 h2 {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    text-align: center;
+}
