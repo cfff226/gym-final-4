@@ -168,6 +168,7 @@ l, ul {
     width: 100vw;
     font-size: 15px;
     margin-bottom: 75px;
+    overflow-y: hidden;
 }
 
 #section-3 .table thead {
@@ -181,3 +182,17 @@ l, ul {
 #section-3 .table td {
     text-align: center;
 }
+
+/** section 4 **/
+
+#section-4 h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#section-4 h3 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
