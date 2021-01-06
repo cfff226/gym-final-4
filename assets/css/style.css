@@ -264,6 +264,7 @@ l, ul {
 
 #section-5 .form-row {
     text-align: center;
+    padding: 0 10px 0 10px;
 }
 
 #section-5 label {
@@ -274,10 +275,18 @@ l, ul {
     display: block;
 }
 
+.btn-primary {
+    background:  #fc5a03;
+}
 /** footer **/
 
 
-footer  {
+footer {
+    background:  #222021!important;
+}
+
+
+footer .social-networks {
     background:  #222021!important;
     margin-top: 1.875rem;
     width: 100vw;
@@ -294,7 +303,7 @@ footer  {
 }
 
 path {
-    color:  #fc5a03;
+    color: #fc5a03;
 }
 
 
