@@ -19,5 +19,29 @@ A website built to best represent Goals Fitness Gym. The functionality of the we
 
 * As a current gym member, I want the navigation to be simple and familiar, so that I can access any gym updates quickly.
 
+## Call Out 
+
+* As a potential customer, I want to know that I am getting a good deal for my money, so that I am more likely to sign up.
+
+* As a website administrator, I would like the potential customer to be greeted with an offer, so that they are likely to move forward with signing up.
+
+## Call Out Button
+
+* As a potential customer, I want to see a large and clear sign up button, so I can easily claim my free months membership.
+
+* As a website administrator, I want to include a brightly coloured, large sign up button, so that the end user can easily sign up.
+
+## Contact Us
+
+* As a potential customer, I want to be able to send enquiries to the website administrators, so that my queries can be responded to.
+
+* As a website administrator, I want the end user to have the option to send in enquiries, so that I can respond to them.
+
+## Social media links
+
+* As an end user, I want to see all of the social media links listed in one place, so that I can navigate straight to them.
+
+* As a website administrator, I want the social media links to be advertised, so that the end user can look further into the gym across other platforms.
+
 
 
