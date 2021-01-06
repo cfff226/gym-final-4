@@ -261,3 +261,19 @@ footer  {
     width: 100vw;
 }
 
+
+.social-networks li {
+    display: inline;
+    float: right;
+    word-spacing: 0.625rem;
+    margin-left: 0.3125rem;
+    margin-right: 0.3125rem;
+    margin-bottom: 0.625rem;
+    margin-top: 0.625rem;
+}
+
+path {
+    color:  #fc5a03;
+}
+
+
