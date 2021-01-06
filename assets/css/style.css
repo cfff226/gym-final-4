@@ -35,7 +35,6 @@ body {
     padding: 0 0 0 0;
 }
 
-
 .navbar-toggler{
     background-color: #fc5a03;
 }
@@ -286,16 +285,10 @@ l, ul {
 .btn-primary {
     background:  #fc5a03;
 }
+
 /** footer **/
 
-
-footer {
-    background:  #222021!important;
-}
-
-
 footer .social-networks {
-    background:  #222021!important;
     margin-top: 1.875rem;
     width: 100vw;
 }
