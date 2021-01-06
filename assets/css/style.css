@@ -152,6 +152,21 @@ l, ul {
     margin-right: 1.25rem;
 }
 
+@media only screen and (max-width: 663px) {
+  #section-2 ul
+  {
+      text-align: center;
+      padding-left: 20px; 
+}}
+
+@media only screen and (max-width: 663px) {
+#section-2 ul li {
+    position: relative;
+    z-index: 1000;
+    display: inline-block;
+    text-align: center;
+}}
+
 #section-2 .card-title {
     margin-bottom: 1.875rem;
     text-align: center;
