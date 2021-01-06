@@ -85,6 +85,7 @@ The website is made responsive to accommodate three main screen sizes; mobile, t
 
 * Google Fonts - (https://fonts.google.com/) - Google Fonts was used to implement a main font and a back up font for the website.
 * Font Awesome - (https://fonts.google.com/) - Font Awesome was used to implement the Social Media icons.
+* JQuery - (https://code.jquery.com/jquery-3.5.1.slim.min.js) - JQuery is used to coinside with the Bootstrap navbar and its responsiveness.
 * Bootstrap CDN - (https://getbootstrap.com/) - Bootstrap structured the websites content in a responsive layout.
 * Shoelace - (http://shoelace.io/) - Shoelace created the website columns structure, tailored for specific devices.
 
