@@ -140,6 +140,11 @@ l, ul {
     text-align: center;
 }
 
+#section-2 ul {
+    margin-left: 1.563rem;
+}
+
+
 #section-2 ul li {
     list-style-type: none;
     font-size: 1.25rem;
@@ -264,7 +269,7 @@ l, ul {
 
 #section-5 .form-row {
     text-align: center;
-    padding: 0 10px 0 10px;
+    padding: 0 0.625rem 0 0.625rem;
 }
 
 #section-5 label {
