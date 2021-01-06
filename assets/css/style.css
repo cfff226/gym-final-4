@@ -252,4 +252,12 @@ l, ul {
     display: block;
 }
 
+/** footer **/
+
+
+footer  {
+    background:  #222021!important;
+    margin-top: 1.875rem;
+    width: 100vw;
+}
 
