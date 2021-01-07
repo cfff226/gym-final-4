@@ -44,6 +44,24 @@ A website built to best represent Goals Fitness Gym. The functionality of the we
 * As a website administrator, I want the social media links to be advertised, so that the end user can look further into the gym across other platforms.
 
 
+## Wire Frames 
+
+* All wire frames were created using the desktop software; 'Balsamiq' 
+
+* Mobile wire frame
+
+* Tablet wire frame
+
+* Desktop wire frame
+
+
+## Languages used:
+
+* HTML5
+
+* CSS3
+
+
 ## Design Choices
 
 ### Fonts
@@ -88,6 +106,9 @@ The website is made responsive to accommodate three main screen sizes; mobile, t
 * JQuery - (https://code.jquery.com/jquery-3.5.1.slim.min.js) - JQuery is used to coinside with the Bootstrap navbar and its responsiveness.
 * Bootstrap CDN - (https://getbootstrap.com/) - Bootstrap structured the websites content in a responsive layout.
 * Shoelace - (http://shoelace.io/) - Shoelace created the website columns structure, tailored for specific devices.
+* Github - https://github.com/ - Github provides a version control system which was used for the development of this project.
+* Gitpod - https://www.gitpod.io/ - Github was used as the main platform for running and distributing the code in this project.
+* Balsamiq - https://balsamiq.com/buy/#d - Balsamiq software was used for creating the wire frames for this project.
 
 
 ## Frameworks Used
@@ -96,6 +117,14 @@ The website is made responsive to accommodate three main screen sizes; mobile, t
 * Cards - Bootstrap 4.5 - (https://getbootstrap.com/docs/4.5/components/card/)
 * Table - Bootstrap 4.5 - (https://getbootstrap.com/docs/4.5/content/tables/)
 * Form - Bootstrap 4.5 - (https://getbootstrap.com/docs/4.5/components/forms/)
+
+## Testing
+
+* HTML checker -  https://validator.w3.org/
+* CSS checker - https://jigsaw.w3.org/css-validator/
+
+Both HTML and CSS pass through the checkers with no errors.
+
 
 ## Code Used From External Sources
 
