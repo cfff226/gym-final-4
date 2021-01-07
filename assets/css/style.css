@@ -170,6 +170,11 @@ l, ul {
     text-align: center;
 }}
 
+#section-2 .card {
+background-color:  #222021!important;
+color:  #fc5a03;
+}
+
 #section-2 .card-title {
     margin-bottom: 1.875rem;
     text-align: center;
@@ -178,7 +183,6 @@ l, ul {
 #section-2 .card-text {
     text-align: center;
 }
-
 
 /** section 2 images **/
 
@@ -209,6 +213,10 @@ l, ul {
     font-size: 0.9375rem;
     margin-bottom: 4rem;
     overflow-y: hidden;
+    background-color:  #222021!important;
+    color:  #fc5a03;
+    border: solid;
+
 }
 
 @media only screen and (max-width: 663px) {
@@ -217,8 +225,9 @@ l, ul {
 }
 }
 
-#section-3 .table thead {
+#section-3 .table {
     text-align: center;
+    border: solid white 0.05rem;
 }
 
 #section-3 .table tr {
@@ -227,6 +236,11 @@ l, ul {
 
 #section-3 .table td {
     text-align: center;
+    border: solid white 0.05rem;
+}
+
+#section-3 .table th {
+border: solid white 0.05rem;
 }
 
 /** section 4 **/
@@ -249,6 +263,8 @@ l, ul {
     margin-bottom: 4.6875rem;
     margin-left: 1.875rem;
     margin-right: 0.625rem;
+    background-color:  #222021!important;
+    color:  #fc5a03;
 }
 
 #section-4 li {
