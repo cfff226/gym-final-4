@@ -290,6 +290,32 @@ border: solid white 0.05rem;
     padding: 0 0.625rem 0 0.625rem;
 }
 
+#section-5 #inputname1 {
+     background-color: #222021!important;
+     color: #FFFFFF
+}
+
+#section-5 #inputname2 {
+    background-color: #222021!important;
+    color: #FFFFFF
+}
+
+#section-5 #inputemail {
+    background-color: #222021!important;
+    color:  #FFFFFF
+}
+
+#section-5 #inputmessage {
+    background-color: #222021!important;
+    color: #FFFFFF
+}
+
+#section-5 #inputlocation {
+    background-color: #222021!important;
+    color: #FFFFFF
+}
+
+
 #section-5 label {
     display: block;
 }
