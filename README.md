@@ -92,12 +92,13 @@ My colour choices are a combination of three:
 * #222021
 * #00000;
 
-The theme throughout is a white background, with the first section to be bright and encapsulating, the nav bar is bold and obvious, following a closely similar theme to the Hero Image. The Call Out header and button are the brightest of all three colours, to stand out with importance. All other written content is dark, except for the Submit button and Social Media icons, intentionally chosen not to overload the website with bright colour, keeping it easy to read. 
+The theme throughout is a white background, with the first section to be bright and encapsulating, the nav bar is bold and obvious, following a closely similar theme to the Hero Image. The Call Out header and button are the brightest of all three colours, to stand out with importance. All other written content is light, except for the Submit button and Social Media icons, intentionally chosen not to overload the website with bright colour, keeping it easy to read.
+The initial theme which was created with wire frames, shows a white background with dark text throughout, however idea of this had changed in order to make the websites features stand out.
 
 
 ## Styling
 
-My choice of style for the website is kept simple and minimalistic throughout. The navigation bar takes on a basic layout, which has been tailored to the website. This is so it’s familiar to the end user.
+My choice of style for the website is kept simple and minimalistic throughout. The navigation bar takes on a basic layout, which has been tailored to the website. This is so it’s familiar to the user.
 The Hero Image adapts to alternate screen sizes, without distorting the image, but instead cropping the image.
 The content is kept short and informative, with a lot of focus on the images and the functionality of the website.
 The website is made responsive to accommodate three main screen sizes; mobile, tablet and desktop. There  are no errors of transitioning between these. 
@@ -187,6 +188,13 @@ When the form was passed through HTML validator, it flagged up the 'required’ 
 * Font Awesome icons are shown correctly - ✓
 
 
+### Known bugs
+
+* When moving between manually moving between screen sizes, Section 5 location box, sits slightly to the right, underneath the message box.
+
+* When moving manually between screen sizes, Section 2, right two un-ordered list items 5 and 6 sit horizontally instead of stacking vertically.
+
+
 ## Code Used From External independant sources
 
 * Section 1 Sign Up Button
@@ -194,6 +202,34 @@ When the form was passed through HTML validator, it flagged up the 'required’ 
 
 * Section 5 Message form box
 (https://stackoverflow.com/questions/21506276/how-do-i-make-the-text-box-bigger-in-html-css/37214512)
+
+
+## Deployment
+
+### Github was used to deploy this project, the steps are as follows:
+* Log into Github and find the Github Repository.
+* Locate the ‘Settings’ button, at the top of the Repository.
+* Locate the ‘Github Pages’ section which is at the bottom of the ‘Settings’ page.
+* Click the ‘None’ dropdown, which is located underneath ‘Source’ and select ‘Master Branch’.
+The page will refresh.
+* Scroll back down the page to find the newly published site link in the ‘GitHub Pages’ section.
+
+
+### Forking the GitHub Repository
+
+* This method will make a copy of the original repository to the Github account. This will be used in the event of the User wanting to make changes to the repository, without affecting the original. Instructions for this are as follows:
+* Log on to Github and locate the GitHub Repository
+* Find the ‘Settings’ button on the menu and locate the ‘Fork’ button.
+* This will create a copy of the original repository that you should now see in your GitHub account.
+
+### Making a Local Clone
+
+* Log in to Github and locate the GitHub Repository
+* Click ‘Clone or download’.
+* If you’re using HTTPS, locate ‘Clone with HTTPS’, then copy the link provided.
+* Open Git Bash.
+* Change the location of the current directory to your location of choice.
+* Type git clone and then paste the URL which you copied in Step 3.
 
 
 ## Images Used
