@@ -71,6 +71,7 @@ A website built to best represent Goals Fitness Gym. The functionality of the we
 * I chose Quicksand as it is rounded, clear and well suited to go with the minimalistic style of the rest of the website.
 San-serif is the back up font as it is near to the Quicksand font, so it will also compliment the websites style in a similar way. 
 
+
 ## Icons
 
 All icons used were taken from path/to/font-awesome/css/font-awesome.min.css
@@ -83,6 +84,7 @@ All icons used were taken from path/to/font-awesome/css/font-awesome.min.css
 * Twitter - <i class="fab fa-twitter-square fa-2x”>
 * Instagram - <i class="fab fa-instagram fa-2x”>
 
+
 ## Colours
 
 My colour choices are a combination of three:
@@ -92,12 +94,14 @@ My colour choices are a combination of three:
 
 The theme throughout is a white background, with the first section to be bright and encapsulating, the nav bar is bold and obvious, following a closely similar theme to the Hero Image. The Call Out header and button are the brightest of all three colours, to stand out with importance. All other written content is dark, except for the Submit button and Social Media icons, intentionally chosen not to overload the website with bright colour, keeping it easy to read. 
 
+
 ## Styling
 
 My choice of style for the website is kept simple and minimalistic throughout. The navigation bar takes on a basic layout, which has been tailored to the website. This is so it’s familiar to the end user.
 The Hero Image adapts to alternate screen sizes, without distorting the image, but instead cropping the image.
 The content is kept short and informative, with a lot of focus on the images and the functionality of the website.
 The website is made responsive to accommodate three main screen sizes; mobile, tablet and desktop. There  are no errors of transitioning between these. 
+
 
 ## Technologies Used
 
@@ -118,6 +122,7 @@ The website is made responsive to accommodate three main screen sizes; mobile, t
 * Table - Bootstrap 4.5 - (https://getbootstrap.com/docs/4.5/content/tables/)
 * Form - Bootstrap 4.5 - (https://getbootstrap.com/docs/4.5/components/forms/)
 
+
 ## Testing
 
 * HTML checker -  https://validator.w3.org/
@@ -126,10 +131,69 @@ The website is made responsive to accommodate three main screen sizes; mobile, t
 Both HTML and CSS pass through the checkers with no errors.
 
 
-## Code Used From External Sources
+## Responsiveness:
+
+Website is fully responsive on all devices
+
+Bootstrap 4.5 was used to create and support the websites responsiveness. A scrolling website was chosen as part of the design. On larger screens it was necessary for each of the 5 sections to individually be displayed taking up one whole visible page at a time. On mobiles, this is notably not possible, due to the screen size, however attributes and media queries were introduced in order to further separate the content, which defined more a page by page visible structure. The scrolling is enabled for downward scroll only, all overflow content on either side is hidden, with scroll-X disabled. 
+
+
+### Devices tested:
+
+* Samsung S10
+* Apple iPhone 5, 6, 7, 8, 10
+* Apple ipad mini
+
+
+### Browsers tested:
+
+* Chrome - desktop and mobile
+* Safari - desktop and mobile
+* Firefox - desktop and mobile
+
+
+### Load time:
+
+* The site load time is averaging at 1 second for all devices tested.
+
+
+### Additional finds:
+
+When the form was passed through HTML validator, it flagged up the 'required’ attribute as an error for use with First Name and Second Name’s, I took this out and kept it only for email address. The Submit button does still work regardless or whether required fields are filled in, I acknowledge that this can be prevented by using Javascript. 
+
+
+## Behaviour of individual site components:
+
+* Nav bar brand is clickable back to home page - ✓
+
+* Nav links take you to intended page - ✓
+
+* Menu items change colour when highlighted - ✓
+
+* Hero image displays correctly - ✓
+
+* Call out message and button is not covering key parts of hero image - ✓
+
+* Text is displayed within intended space and not spilling over - ✓
+
+* Vertical scroll works correctly on all devices - ✓
+
+* Horizontal scroll is hidden - ✓
+
+* Headings are displayed correctly - ✓
+
+* White space is even either side of content - ✓
+
+* Font Awesome icons are shown correctly - ✓
+
+
+## Code Used From External independant sources
 
 * Section 1 Sign Up Button
-https://stackoverflow.com/questions/34082002/html-button-opening-link-in-new-tab
+(https://stackoverflow.com/questions/34082002/html-button-opening-link-in-new-tab)
+
+* Section 5 Message form box
+(https://stackoverflow.com/questions/21506276/how-do-i-make-the-text-box-bigger-in-html-css/37214512)
 
 
 ## Images Used
