@@ -19,7 +19,7 @@ A website built to best represent Goals Fitness Gym. The functionality of the we
 
 * As a current gym member, I want the navigation to be simple and familiar, so that I can access any gym updates quickly.
 
-## Call Out 
+## Call Out Message
 
 * As a potential customer, I want to know that I am getting a good deal for my money, so that I am more likely to sign up.
 
@@ -48,11 +48,11 @@ A website built to best represent Goals Fitness Gym. The functionality of the we
 
 * All wire frames were created using the desktop software; 'Balsamiq' 
 
-* Mobile wire frame
+* Mobile wire frame - (https://drive.google.com/file/d/1S21fpvOlJFabm8va2zSzwsKB6d2xaFtu/view?usp=sharing)
 
-* Tablet wire frame
+* Tablet wire frame - (https://drive.google.com/file/d/1hrLBAWp2dlT0M2xciuRAi37IQmJN-v1k/view?usp=sharing) and (https://drive.google.com/file/d/1nk6xq9xnOtkn_3qRJWllZvD8rUPn8bA0/view?usp=sharing)
 
-* Desktop wire frame
+* Desktop wire frame - (https://drive.google.com/file/d/1ZmyWCzNeo-UDZWbb9dmCY4GZwRxNzA99/view?usp=sharing) and (https://drive.google.com/file/d/1ZXfiKEyO_RxnFXfYrCW6S0TSyFvW00NB/view?usp=sharing)
 
 
 ## Languages used:
@@ -74,7 +74,7 @@ San-serif is the back up font as it is near to the Quicksand font, so it will al
 
 ## Icons
 
-All icons used were taken from path/to/font-awesome/css/font-awesome.min.css
+All icons used were taken from (path/to/font-awesome/css/font-awesome.min.css)
 
 * Dumbell - <i class="fas fa-dumbbell”>
 * Clock - <i class="far fa-clock”>
@@ -134,7 +134,7 @@ Both HTML and CSS pass through the checkers with no errors.
 
 ## Responsiveness:
 
-Website is fully responsive on all devices
+Website is fully responsive on all devices.
 
 Bootstrap 4.5 was used to create and support the websites responsiveness. A scrolling website was chosen as part of the design. On larger screens it was necessary for each of the 5 sections to individually be displayed taking up one whole visible page at a time. On mobiles, this is notably not possible, due to the screen size, however attributes and media queries were introduced in order to further separate the content, which defined more a page by page visible structure. The scrolling is enabled for downward scroll only, all overflow content on either side is hidden, with scroll-X disabled. 
 
