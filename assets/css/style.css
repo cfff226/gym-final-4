@@ -172,12 +172,13 @@ l, ul {
 
 #section-2 .card {
 background-color:  #222021!important;
-color:  #fc5a03;
+color:  #FFFFFF;
 }
 
 #section-2 .card-title {
     margin-bottom: 1.875rem;
     text-align: center;
+    color:  #fc5a03;
 }
 
 #section-2 .card-text {
@@ -237,6 +238,7 @@ color:  #fc5a03;
 #section-3 .table td {
     text-align: center;
     border: solid white 0.05rem;
+    color: #FFFFFF
 }
 
 #section-3 .table th {
@@ -272,6 +274,7 @@ border: solid white 0.05rem;
     list-style-type: none;
     margin: 2.5rem;
     font-size: 1.25rem;
+    color: #FFFFFF
 }
 
 /** section 5 **/
