@@ -337,11 +337,11 @@ border: solid white 0.05rem;
 
 footer .card {
     background-color:  #222021!important;
+    z-index: 1000;
 }
 
 footer p {
     color:  #fc5a03;
-    float: center;
     text-align: center;
     margin-left: 8rem;
     font-size: 0.9375rem;
@@ -359,9 +359,15 @@ footer .mylink {
     margin-top: 1rem;
 }
 
+footer .mylink:hover {
+    color: black;
+}
+
 .social-networks li {
     display: inline;
     float: right;
+    position: relative;
+    z-index: 1000;
     word-spacing: 0.625rem;
     margin-left: 0.3125rem;
     margin-right: 0.3125rem;
