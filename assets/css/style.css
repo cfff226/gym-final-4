@@ -312,7 +312,8 @@ border: solid white 0.05rem;
 
 #section-5 #inputmessage {
     background-color: #222021!important;
-    color: #FFFFFF
+    color: #FFFFFF;
+    padding-left: 0.5rem;
 }
 
 #section-5 #inputlocation {
