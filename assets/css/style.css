@@ -330,17 +330,31 @@ border: solid white 0.05rem;
 }
 
 .btn-primary {
-    background:  #fc5a03;
+    background-color:  #fc5a03;
 }
 
 /** footer **/
 
 footer .card {
     background-color:  #222021!important;
+    height: 100px;
 }
 
 footer .social-networks {
     margin-top: 1.875rem;
+}
+
+footer p {
+    color:  #fc5a03;
+    float: center;
+    text-align: center;
+    margin-left: 8rem;
+    font-size: 0.9375rem;
+}
+
+footer .mylink {
+    color:  #fc5a03;
+    display: inline;
 }
 
 .social-networks li {
