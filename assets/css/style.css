@@ -337,11 +337,6 @@ border: solid white 0.05rem;
 
 footer .card {
     background-color:  #222021!important;
-    height: 100px;
-}
-
-footer .social-networks {
-    margin-top: 1.875rem;
 }
 
 footer p {
@@ -350,11 +345,14 @@ footer p {
     text-align: center;
     margin-left: 8rem;
     font-size: 0.9375rem;
+    margin-bottom: 1rem;
+    position: relative;
 }
 
 footer .mylink {
     color:  #fc5a03;
-    display: inline;
+    position: absolute;
+    margin-top: 1rem;
 }
 
 .social-networks li {
