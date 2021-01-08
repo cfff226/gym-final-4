@@ -203,6 +203,9 @@ When the form was passed through HTML validator, it flagged up the 'required’ 
 * Section 5 Message form box
 (https://stackoverflow.com/questions/21506276/how-do-i-make-the-text-box-bigger-in-html-css/37214512)
 
+* Footer a href link
+(https://stackoverflow.com/questions/17281486/add-target-blank-in-css)
+
 
 ## Deployment
 
