@@ -320,13 +320,20 @@ border: solid white 0.05rem;
     color: #FFFFFF
 }
 
-
 #section-5 label {
     display: block;
 }
 
 #section-5 .form-check-input {
     display: block;
+}
+
+#section-5 #inputemail::placeholder {
+    color: #FFFFFF;
+}
+
+#section-5 #inputmessage::placeholder {
+    color: #FFFFFF;
 }
 
 .btn-primary {
@@ -353,6 +360,7 @@ footer .card-body {
     padding-top: 0;
     padding-bottom: 0;
 }
+
 footer .mylink {
     color:  #fc5a03;
     position: absolute;
@@ -378,9 +386,9 @@ footer .mylink:hover {
 @media only screen and (max-width: 663px) {
     .social-networks li {
         margin-top: 40px;
-    }
-
 }
+}
+
 path {
     color: #fc5a03;
 }
