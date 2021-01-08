@@ -335,9 +335,12 @@ border: solid white 0.05rem;
 
 /** footer **/
 
+footer .card {
+    background-color:  #222021!important;
+}
+
 footer .social-networks {
     margin-top: 1.875rem;
-    width: 100vw;
 }
 
 .social-networks li {
