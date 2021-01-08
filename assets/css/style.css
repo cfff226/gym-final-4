@@ -349,6 +349,10 @@ footer p {
     position: relative;
 }
 
+footer .card-body {
+    padding-top: 0;
+    padding-bottom: 0;
+}
 footer .mylink {
     color:  #fc5a03;
     position: absolute;
