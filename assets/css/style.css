@@ -161,7 +161,8 @@ l, ul {
   #section-2 ul
   {
       text-align: center;
-      padding-left: 20px; 
+      padding-left: 20px;
+      padding-bottom: 20px; 
 }}
 
 @media only screen and (max-width: 663px) {
@@ -169,6 +170,7 @@ l, ul {
     position: relative;
     z-index: 1000;
     display: inline-block;
+    font-size: 1.10rem;
     text-align: center;
 }}
 
@@ -184,6 +186,10 @@ color:  #FFFFFF;
 }
 
 #section-2 .card-text {
+    text-align: center;
+}
+
+#section-2 p {
     text-align: center;
 }
 
