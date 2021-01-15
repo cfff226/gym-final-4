@@ -11,37 +11,30 @@ A website built to best represent Goals Fitness Gym. The functionality of the we
 [Website in desktop view] (https://drive.google.com/file/d/1FH5meoISrCh-DPcJf5gR2d83FgRFi-p8/view?usp=sharing)
 
 
-## Nav-bar 
+## First Time Visitor Goals
 
-* As a potential customer, I want it to be easy to find my way round the website, so I can retrieve all the relevant information about the gym.
+* As a First Time Visitor, I want to find out the gym locations and any current membership offers. 
 
-* As a website administrator, I want the navigation to be simple and familiar to the user, so they are able to find all of the important details about the gym.
+* As a First Time Visitor, I want to find key information, images and be able to navigate around the website with ease. 
 
-* As a current gym member, I want the navigation to be simple and familiar, so that I can access any gym updates quickly.
+* As a First Time Visitor, I want to be presented with images of the gym and information on what’s to offer.
 
-## Call Out Message
+* As a First Time Visitor, I want to find the information about prices and membership options.
 
-* As a potential customer, I want to know that I am getting a good deal for my money, so that I am more likely to sign up.
+* As a First Time Visitor, I want to find the social media links and have the opportunity to send in enquiries.
 
-* As a website administrator, I would like the potential customer to be greeted with an offer, so that they are likely to move forward with signing up.
 
-## Call Out Button
+### Returning Visitor Goals
 
-* As a potential customer, I want to see a large and clear sign up button, so I can easily claim my free months membership.
+* As a Returning Visitor, I want to be able to find the ‘Contact Us’ page to ask any questions I may have.
 
-* As a website administrator, I want to include a brightly coloured, large sign up button, so that the end user can easily sign up.
 
-## Contact Us
+### Frequent Visitor Goals
 
-* As a potential customer, I want to be able to send enquiries to the website administrators, so that my queries can be responded to.
+* As a Frequent Visitor, I want to find the Gym Timetable, for the weekly activities.
 
-* As a website administrator, I want the end user to have the option to send in enquiries, so that I can respond to them.
+* As a Frequent User, I would like to find links to information about available careers at the gym.
 
-## Social Media links
-
-* As an end user, I want to see all of the social media links listed in one place, so that I can navigate straight to them.
-
-* As a website administrator, I want the social media links to be advertised, so that the end user can look further into the gym across other platforms.
 
 
 ## Wire Frames 
@@ -88,12 +81,13 @@ All icons used were taken from (path/to/font-awesome/css/font-awesome.min.css)
 ## Colours
 
 My colour choices are a combination of three:
+
 * #fc5a03
 * #222021
 * #00000;
 
 The theme throughout is a white background, with the first section to be bright and encapsulating, the nav bar is bold and obvious, following a closely similar theme to the Hero Image. The Call Out header and button are the brightest of all three colours, to stand out with importance. All other written content is light, except for the Submit button and Social Media icons, intentionally chosen not to overload the website with bright colour, keeping it easy to read.
-The initial theme which was created with wire frames, shows a white background with dark text throughout, however idea of this had changed in order to make the websites features stand out.
+The initial theme which was created with wire frames, shows a white background with dark text throughout, however the idea of this had changed in order to make the websites features stand out.
 
 
 ## Styling
@@ -101,7 +95,7 @@ The initial theme which was created with wire frames, shows a white background w
 My choice of style for the website is kept simple and minimalistic throughout. The navigation bar takes on a basic layout, which has been tailored to the website. This is so it’s familiar to the user.
 The Hero Image adapts to alternate screen sizes, without distorting the image, but instead cropping the image.
 The content is kept short and informative, with a lot of focus on the images and the functionality of the website.
-The website is made responsive to accommodate three main screen sizes; mobile, tablet and desktop. There  are no errors of transitioning between these. 
+The website is made responsive to accommodate three main screen sizes; mobile, tablet and desktop.
 
 
 ## Technologies Used
@@ -122,6 +116,7 @@ The website is made responsive to accommodate three main screen sizes; mobile, t
 * Cards - Bootstrap 4.5 - (https://getbootstrap.com/docs/4.5/components/card/)
 * Table - Bootstrap 4.5 - (https://getbootstrap.com/docs/4.5/content/tables/)
 * Form - Bootstrap 4.5 - (https://getbootstrap.com/docs/4.5/components/forms/)
+* Hover/CSS - This was used on all Navigation Bar links, Footer text and icons. 
 
 
 ## Testing
@@ -129,14 +124,13 @@ The website is made responsive to accommodate three main screen sizes; mobile, t
 * HTML checker -  https://validator.w3.org/
 * CSS checker - https://jigsaw.w3.org/css-validator/
 
-Both HTML and CSS pass through the checkers with no errors.
-
+These validators check for syntax errors in the project, both CSS and HTML passed with no errors.
 
 ## Responsiveness:
 
 Website is fully responsive on all devices.
 
-Bootstrap 4.5 was used to create and support the websites responsiveness. A scrolling website was chosen as part of the design. On larger screens it was necessary for each of the 5 sections to individually be displayed taking up one whole visible page at a time. On mobiles, this is notably not possible, due to the screen size, however attributes and media queries were introduced in order to further separate the content, which defined more a page by page visible structure. The scrolling is enabled for downward scroll only, all overflow content on either side is hidden, with scroll-X disabled. 
+Bootstrap 4.5 was used to create and support the websites responsiveness. A scrolling website was chosen as part of the design. On larger screens it was necessary for each of the 5 sections to individually be displayed taking up one whole visible page at a time. On mobiles, this is notably not possible, due to the screen size, however attributes and media queries were introduced in order to further separate the content, which defined more of a page by page visible structure. The scrolling is enabled for downward scroll only, all overflow content on either side is hidden, with scroll-X disabled. 
 
 
 ### Devices tested:
@@ -156,6 +150,79 @@ Bootstrap 4.5 was used to create and support the websites responsiveness. A scro
 ### Load time:
 
 * The site load time is averaging at 1 second for all devices tested.
+
+
+## Testing User Stories from User Experience (UX) Section
+
+
+### First Time Visitor Goals
+
+
+#### As a First Time Visitor, I want to find out the gym locations and any current membership offers. 
+
+##### Link to screen shot (https://drive.google.com/file/d/1p2D5Wd9HuCpHeK4Ri15BdG2rd4uOX448/view?usp=sharing)
+
+* Upon entering the site, users will immediately see the large navigation bar, which is collapsable on smaller screens. 
+
+* Just underneath the navigation bar is the Call Out Message and Call Out button, these two features are positioned in front of the hero image. This gives the user the option of clicking the button, which opens a Sign Up page in a new tab, or scrolling down through the site. 
+
+* The locations are listed in front of the hero image as this is key information.
+
+
+#### As a First Time Visitor, I want to find key information and be able to navigate around the website with ease. 
+
+##### Link to screen shot (https://drive.google.com/file/d/1aOqdgw6KFYcyeFvPjVeVJh1kbKrrCGGQ/view?usp=sharing)
+
+* The navigation bar brand has been made into a clickable link, which also leads back to the top page. As the navigation bar is completely fixed, the user will be able to access each page at any point.
+
+
+#### As a First Time Visitor, I want to be presented with images of the gym and information on what’s to offer.
+
+##### Link to screen shot (https://drive.google.com/file/d/1F6n8FSsXsDmldHS0UJSFvBmNO70oPu3X/view?usp=sharing)
+
+* The First Time User will see by scrolling down to page 2, any important information about facilities and what’s’ available.
+
+
+#### As a First Time Visitor, I want to find the information about prices and membership options.
+
+##### Link to screen shot (https://drive.google.com/file/d/1VGHnKwd0FZPeGvSA5RdQ6iu2el2OUcN9/view?usp=sharing)
+
+* The user will see these listed clearly in the Membership section, in three separate columns.
+
+
+#### As a First Time Visitor, I want to find the social media links and have the opportunity to send in enquiries.
+
+##### Link to screen shot (https://drive.google.com/file/d/1Agnz-KNgSMW71-9b0VB5DTcAKVzagvPW/view?usp=sharing)
+
+* The user will find all social media link at the bottom of the web page in the footer, which is on the 'Contact Us' page.
+
+
+### Returning Visitor Goals
+
+
+#### As a Returning Visitor, I want to be able to find the ‘Contact Us’ page to send in any enquiries I may have.
+
+##### Link to screen shot (https://drive.google.com/file/d/1Agnz-KNgSMW71-9b0VB5DTcAKVzagvPW/view?usp=sharing)
+
+* This is shown clearly as ‘Contact Us’ in the navigation bar. This link will take the user directly to the form, where the email address may be saved as auto fill if used before.
+
+* Alternatively, there are social media links listed in the ‘Footer’, which gives the option for the user to contact via social media instead. All of these links open up in new tabs.
+
+
+### Frequent User Goals
+
+
+#### As a Frequent User, I want to find the Gym Timetable, for the weekly Gym classes.
+
+##### Link to screen shot (https://drive.google.com/file/d/1-QzOlOlk8y2NKY_wbYbCQbB_eXDAPp9w/view?usp=sharing)
+
+* As the user is a frequent visitor, they will be familiar with the website and can find the Timetable listed in the navigation bar. This shows a clear timetable for each of the days that classes take place.
+
+#### As a Frequent User, I would like to find links to information about available careers the gym.
+
+##### Link to screen shot (https://drive.google.com/file/d/1RoAeN1-UiIBGLCX_4zAmzayfr6IODJe6/view?usp=sharing)
+
+* A ‘Careers’ page link is listed in the footer, this will open in a new tab.
 
 
 ### Additional finds:
@@ -190,9 +257,7 @@ When the form was passed through HTML validator, it flagged up the 'required’ 
 
 ### Known bugs
 
-* When moving between manually moving between screen sizes, Section 5 location box, sits slightly to the right, underneath the message box.
-
-* When moving manually between screen sizes, Section 2, right two un-ordered list items 5 and 6 sit horizontally instead of stacking vertically.
+* When moving between manually moving between screen sizes, Section 5 location box, sits slightly to the right, underneath the message box. This is only visible when transitioning between screen sizes between breakpoints which is why it has been kept in.
 
 
 ## Code Used From External independant sources
@@ -250,6 +315,11 @@ Humphrey Muleba
 (https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw=&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80)
 Anastase Maragos
 @visualsbyroyalz
+
+## Acknowledgements 
+
+* Code Institute Tutor's and Mentor for continued help and support.
+
 
 
 
