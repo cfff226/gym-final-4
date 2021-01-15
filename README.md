@@ -282,6 +282,8 @@ When the form was passed through HTML validator, it flagged up the 'required’ 
 The page will refresh.
 * Scroll back down the page to find the newly published site link in the ‘GitHub Pages’ section.
 
+The link to view on Github Pages (https://cfff226.github.io/gym-final-4/.)
+
 
 ### Forking the GitHub Repository
 
