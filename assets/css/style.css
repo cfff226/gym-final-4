@@ -53,13 +53,11 @@ body {
     font-weight: bold;
 }
 
-
 .navbar-light .navbar-nav .nav-link {
     font-size: 1.70rem;
     list-style-type: none;
     color:#fc5a03;
 }
-
 
 @media only screen and (max-width: 1024px) {
 .navbar-light .navbar-nav .nav-link {
@@ -163,7 +161,8 @@ l, ul {
       text-align: center;
       padding-left: 20px;
       padding-bottom: 20px; 
-}}
+}
+}
 
 @media only screen and (max-width: 663px) {
 #section-2 ul li {
@@ -172,7 +171,8 @@ l, ul {
     display: inline-block;
     font-size: 1.10rem;
     text-align: center;
-}}
+}
+}
 
 #section-2 .card {
 background-color:  #222021!important;
@@ -225,7 +225,6 @@ color:  #FFFFFF;
     background-color:  #222021!important;
     color:  #fc5a03;
     border: solid;
-
 }
 
 @media only screen and (max-width: 663px) {
@@ -349,6 +348,11 @@ border: solid white 0.05rem;
 
 .btn-primary:hover{
     background-color:  #fc5a03;
+}
+
+.btn-primary:focus {
+    background-color:  #fc5a03;
+    outline: none;
 }
 
 /** footer **/
